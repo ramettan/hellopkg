@@ -1,0 +1,1 @@
+/usr/bin/c++ -m64 -g -m64 CMakeFiles/example.dir/src/example.cpp.o -o example  /root/.conan/data/hello/0.1/demo/testing/package/133a1f2158ff2cf69739f316ec21143785be54c7/lib/libhello.a 
